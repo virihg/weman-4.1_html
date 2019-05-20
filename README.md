@@ -75,7 +75,6 @@ elhtml.html
 
 -- Atributos encontrados:
 type, class, id
-```
 -->
 ```
 
