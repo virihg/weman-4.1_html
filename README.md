@@ -103,4 +103,3 @@ for ($i = 0; $i < 10; $i++) {
 ?>
 Y yo creo que es... 
 ```
-s
