@@ -27,6 +27,10 @@ input[type=text], input[type=password]{
   transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
   margin-bottom: 10px;
 }
+body {
+  background-image: url(img/intro/intro-bg.jpg);
+  max-height:100%;
+}
 h1 img {
   width: 200px;
 }
