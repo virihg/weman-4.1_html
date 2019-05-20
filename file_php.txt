@@ -1,4 +1,5 @@
 Inserciones de PHP
+<?= NOMBRE_APLICACION ?>
 <?php
 require_once("./motores/interno/defs.php");
 session_start();
